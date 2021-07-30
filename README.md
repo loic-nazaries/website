@@ -4,7 +4,7 @@ This is the current version of my website.
 
 This is a GitHug Page.
 
-The default web address is "https://loic-nazaries.github.io/github-pages-website/"
+The default web address is "https://loic-nazaries.github.io/website/"
 
 ---
 
