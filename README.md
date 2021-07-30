@@ -1,4 +1,4 @@
-# github-pages-website
+# website
 
 This is the current version of my website.
 
@@ -10,7 +10,7 @@ The default web address is "https://loic-nazaries.github.io/website/"
 
  Repo for live website built with Hugo Framework.
 
- See the "**live_website**" repository for the source files.
+ See the "**hugo_website**" repository for the source files.
 
 ---
 
