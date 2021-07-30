@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dashboard on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/categories/dashboard/</link>
+    <description>Recent content in dashboard on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sun, 10 Jan 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/website/categories/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dashboard</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/dashboard/</link>
+      <pubDate>Sun, 10 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/dashboard/</guid>
+      <description>Theme Deployment of a web application to create an interactive dashboard for data analysis.</description>
+    </item>
+    
+    <item>
+      <title>GHG Modelling</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/ghg_modelling/</link>
+      <pubDate>Sun, 24 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/ghg_modelling/</guid>
+      <description>Theme Greenhouse gas emissions modelling.
+ Technologies  time-series analysis (ARIMA) machine learning (multiple regression) statistics (correlation, mixed modelling)   Description Analyse des émissions de gaz à effet de serre dans des conditions de concentrations atmosphériques en CO2 élevées.</description>
+    </item>
+    
+    <item>
+      <title>Tableau Dashboard</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/tableau_dashboard/</link>
+      <pubDate>Wed, 18 Mar 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/tableau_dashboard/</guid>
+      <description>Theme Visuals &amp;amp; Dashboard with the Software Package Tableau.
+ Technologies  Tableau Software Package   Description Il s&amp;rsquo;agit là d&amp;rsquo;une collection de graphiques mettant en avant les conséquences (ou plutôt le manque de conséquences) d&amp;rsquo;une élévation de la concentration atmosphérique en CO2 sur les émissions des gaz à effet de serre méthane (CH4), dioxide de carbone (CO2) et N2O.</description>
+    </item>
+    
+    <item>
+      <title>Scientific Publications</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/scientific_publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/scientific_publications/</guid>
+      <description>A list of chosen papers and posters.
+ Table of contents</description>
+    </item>
+    
+    <item>
+      <title>Web App Deployment with Heroku (coming soon)</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/deploy_web_app_heroku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/deploy_web_app_heroku/</guid>
+      <description>Coming Soon !
+ Theme Deploy a web application with Heroku.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>global change on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/categories/global-change/</link>
+    <description>Recent content in global change on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/website/categories/global-change/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EucFACE Site Presentation</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/eucface/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/eucface/</guid>
+      <description>Analysis of greenhouse gas (GHG) emissions under elevated atmospheric CO2 concentrations.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web app on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/categories/web-app/</link>
+    <description>Recent content in web app on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sun, 10 Jan 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/website/categories/web-app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dashboard</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/dashboard/</link>
+      <pubDate>Sun, 10 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/dashboard/</guid>
+      <description>Theme Deployment of a web application to create an interactive dashboard for data analysis.</description>
+    </item>
+    
+    <item>
+      <title>Web App Deployment with Heroku (coming soon)</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/deploy_web_app_heroku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/deploy_web_app_heroku/</guid>
+      <description>Coming Soon !
+ Theme Deploy a web application with Heroku.</description>
+    </item>
+    
+  </channel>
+</rss>

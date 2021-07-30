@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ETL on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/categories/etl/</link>
+    <description>Recent content in ETL on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Mon, 10 Feb 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/website/categories/etl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Business Intelligence</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/google_bi/</link>
+      <pubDate>Mon, 10 Feb 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/google_bi/</guid>
+      <description>Theme Data Visualisation with Google BigQuery &amp;amp; Google Data Studio.</description>
+    </item>
+    
+    <item>
+      <title>Google BigQuery &amp; Google Data Studio</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/google_bigquery_datastudio/</link>
+      <pubDate>Wed, 05 Feb 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/google_bigquery_datastudio/</guid>
+      <description>Theme Prepare a dashboard with Google BigQuery &amp;amp; Google Data Studio.</description>
+    </item>
+    
+    <item>
+      <title>Alteryx (coming soon)</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/alteryx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/alteryx/</guid>
+      <description>Coming Soon !
+ Theme Alteryx Designer Workflow.
+ Technologies  Alteryx Designer   Description [Credit for the header picture] Photo by Campaign Creators on Unsplash</description>
+    </item>
+    
+  </channel>
+</rss>

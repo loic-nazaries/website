@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ETL on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/fr/categories/etl/</link>
+    <description>Recent content in ETL on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Mon, 10 Feb 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/website/fr/categories/etl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Informatique décisionnelle de Google</title>
+      <link>https://loic-nazaries.github.io/website/fr/portfolio/google_bi/</link>
+      <pubDate>Mon, 10 Feb 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/fr/portfolio/google_bi/</guid>
+      <description>Thématique Visualisation de données (ou Data Visualisation) avec Google BigQuery &amp;amp; Google Data Studio.</description>
+    </item>
+    
+    <item>
+      <title>Google BigQuery &amp; Google Data Studio</title>
+      <link>https://loic-nazaries.github.io/website/fr/portfolio/google_bigquery_datastudio/</link>
+      <pubDate>Wed, 05 Feb 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/fr/portfolio/google_bigquery_datastudio/</guid>
+      <description>Thématique Préparer un dashboard (ou tableau de bord) avec Google BigQuery et Google Data Studio</description>
+    </item>
+    
+    <item>
+      <title>Alteryx (bientôt)</title>
+      <link>https://loic-nazaries.github.io/website/fr/portfolio/alteryx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/fr/portfolio/alteryx/</guid>
+      <description>Bientôt !
+ ## Thématique Alteryx Designer Workflow (ou « flux de tâches »).</description>
+    </item>
+    
+  </channel>
+</rss>

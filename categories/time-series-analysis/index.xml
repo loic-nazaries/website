@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>time-series analysis on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/categories/time-series-analysis/</link>
+    <description>Recent content in time-series analysis on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sun, 24 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/website/categories/time-series-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GHG Modelling</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/ghg_modelling/</link>
+      <pubDate>Sun, 24 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/ghg_modelling/</guid>
+      <description>Theme Greenhouse gas emissions modelling.
+ Technologies  time-series analysis (ARIMA) machine learning (multiple regression) statistics (correlation, mixed modelling)   Description Analyse des émissions de gaz à effet de serre dans des conditions de concentrations atmosphériques en CO2 élevées.</description>
+    </item>
+    
+  </channel>
+</rss>

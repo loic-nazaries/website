@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>database management on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/categories/database-management/</link>
+    <description>Recent content in database management on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Mon, 01 Jun 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/website/categories/database-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Database Modelling</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/database_modelling/</link>
+      <pubDate>Mon, 01 Jun 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/database_modelling/</guid>
+      <description>Theme Database modelling.
+ Technologies  SQL PostgreSQL &amp;amp; pgAdmin4 | Oracle SQL*Plus UML   Description Un système de gestion de base de données relationnelle (SGBDR) a été construit pour le projet « EucFACE ».</description>
+    </item>
+    
+    <item>
+      <title>Google Business Intelligence</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/google_bi/</link>
+      <pubDate>Mon, 10 Feb 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/google_bi/</guid>
+      <description>Theme Data Visualisation with Google BigQuery &amp;amp; Google Data Studio.</description>
+    </item>
+    
+    <item>
+      <title>Google BigQuery &amp; Google Data Studio</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/google_bigquery_datastudio/</link>
+      <pubDate>Wed, 05 Feb 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/google_bigquery_datastudio/</guid>
+      <description>Theme Prepare a dashboard with Google BigQuery &amp;amp; Google Data Studio.</description>
+    </item>
+    
+  </channel>
+</rss>

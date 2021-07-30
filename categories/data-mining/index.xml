@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data mining on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/categories/data-mining/</link>
+    <description>Recent content in data mining on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Wed, 19 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/website/categories/data-mining/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Pipeline</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/data_pipeline/</link>
+      <pubDate>Wed, 19 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/data_pipeline/</guid>
+      <description>Theme Data integration, cleansing and validation pipeline.
+ Technologies  Python (Numpy, Pandas, Matplotlib, Seaborn, Click libraries)   Description Une base de données relationnelle de type « flocon de neige » a été modélisée à partir de fichiers de type et d&amp;rsquo;origine multiples (enregistreurs automatiques, mesures manuelles, fichiers au formats variés - .</description>
+    </item>
+    
+    <item>
+      <title>Scientific Publications</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/scientific_publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/scientific_publications/</guid>
+      <description>A list of chosen papers and posters.
+ Table of contents</description>
+    </item>
+    
+  </channel>
+</rss>

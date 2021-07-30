@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virtual environment on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/categories/virtual-environment/</link>
+    <description>Recent content in virtual environment on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Mon, 04 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/website/categories/virtual-environment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Virtual Environment (Conda)</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/python_virtual_env_conda/</link>
+      <pubDate>Mon, 04 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/python_virtual_env_conda/</guid>
+      <description>Theme Create a virtual environment with Python &amp;amp; Conda.</description>
+    </item>
+    
+    <item>
+      <title>Python Virtual Environment</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/python_virtual_environment/</link>
+      <pubDate>Sat, 18 Apr 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/python_virtual_environment/</guid>
+      <description>Theme Create a virtual environment with Python.
+ Technologies  Python Microsoft Visual Studio Code   Description Dans tout projet data, il est important de pouvoir créer un environnement technique reproductible par une autre personne ou sur un autre ordinateur.</description>
+    </item>
+    
+  </channel>
+</rss>

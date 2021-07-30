@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>modelling on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/fr/categories/modelling/</link>
+    <description>Recent content in modelling on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sat, 08 Feb 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/website/fr/categories/modelling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modélisation de KPI</title>
+      <link>https://loic-nazaries.github.io/website/fr/portfolio/kpi_modelling/</link>
+      <pubDate>Sat, 08 Feb 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/fr/portfolio/kpi_modelling/</guid>
+      <description>Thématique Élaboration d&amp;rsquo;un indicateur clé de performance (KPI).
+ Technologies  Statistiques (corrélations, score Z)   Description Un conglomérat d’agriculteurs australiens a financé une étude dans laquelle j’ai été chargé d’identifier les facteurs biologiques et environnementaux qui sont susceptible d’améliorer les rendements de blé en lien avec les pratiques d’agricultures communes en Australie (chaume brûlé, fertilisation, pâturage, labourage, etc.</description>
+    </item>
+    
+    <item>
+      <title>Modélisation géographique</title>
+      <link>https://loic-nazaries.github.io/website/fr/portfolio/geographical_modelling/</link>
+      <pubDate>Tue, 12 Nov 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/fr/portfolio/geographical_modelling/</guid>
+      <description>Thématique Modélisation géographique.
+ Technologies  Apprentissage automatique / Machine Learning (Random Forest, Canonical Variates Analysis) Géostatistiques (Kriging)   Description J’ai complété une étude décrivant les étapes de modélisation nécessaire pour prédire la répartition géographique de microbes dans le sol responsables de la réduction des concentrations de méthane (un puissant gaz effet de serre) dans l’atmosphère.</description>
+    </item>
+    
+    <item>
+      <title>Scientific Publications</title>
+      <link>https://loic-nazaries.github.io/website/fr/portfolio/scientific_publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/fr/portfolio/scientific_publications/</guid>
+      <description>Une liste de papiers et posters choisis.
+ Table of contents</description>
+    </item>
+    
+  </channel>
+</rss>

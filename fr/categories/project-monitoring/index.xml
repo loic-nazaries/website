@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project monitoring on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/fr/categories/project-monitoring/</link>
+    <description>Recent content in project monitoring on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright><atom:link href="https://loic-nazaries.github.io/website/fr/categories/project-monitoring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dépôt de projet avec GitHub (bientôt)</title>
+      <link>https://loic-nazaries.github.io/website/fr/portfolio/github_repo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/fr/portfolio/github_repo/</guid>
+      <description>Bientôt !
+ Thématique Créer un dépôt de projet avec GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>

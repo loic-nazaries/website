@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PORTFOLIO on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/portfolio/</link>
+    <description>Recent content in PORTFOLIO on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Wed, 19 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/website/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Pipeline</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/data_pipeline/</link>
+      <pubDate>Wed, 19 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/data_pipeline/</guid>
+      <description>Theme Data integration, cleansing and validation pipeline.
+ Technologies  Python (Numpy, Pandas, Matplotlib, Seaborn, Click libraries)   Description Une base de données relationnelle de type « flocon de neige » a été modélisée à partir de fichiers de type et d&amp;rsquo;origine multiples (enregistreurs automatiques, mesures manuelles, fichiers au formats variés - .</description>
+    </item>
+    
+    <item>
+      <title>Dashboard</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/dashboard/</link>
+      <pubDate>Sun, 10 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/dashboard/</guid>
+      <description>Theme Deployment of a web application to create an interactive dashboard for data analysis.</description>
+    </item>
+    
+    <item>
+      <title>Database Modelling</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/database_modelling/</link>
+      <pubDate>Mon, 01 Jun 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/database_modelling/</guid>
+      <description>Theme Database modelling.
+ Technologies  SQL PostgreSQL &amp;amp; pgAdmin4 | Oracle SQL*Plus UML   Description Un système de gestion de base de données relationnelle (SGBDR) a été construit pour le projet « EucFACE ».</description>
+    </item>
+    
+    <item>
+      <title>GHG Modelling</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/ghg_modelling/</link>
+      <pubDate>Sun, 24 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/ghg_modelling/</guid>
+      <description>Theme Greenhouse gas emissions modelling.
+ Technologies  time-series analysis (ARIMA) machine learning (multiple regression) statistics (correlation, mixed modelling)   Description Analyse des émissions de gaz à effet de serre dans des conditions de concentrations atmosphériques en CO2 élevées.</description>
+    </item>
+    
+    <item>
+      <title>EucFACE Site Presentation</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/eucface/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/eucface/</guid>
+      <description>Analysis of greenhouse gas (GHG) emissions under elevated atmospheric CO2 concentrations.</description>
+    </item>
+    
+    <item>
+      <title>Python Virtual Environment (Conda)</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/python_virtual_env_conda/</link>
+      <pubDate>Mon, 04 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/python_virtual_env_conda/</guid>
+      <description>Theme Create a virtual environment with Python &amp;amp; Conda.</description>
+    </item>
+    
+    <item>
+      <title>Python Virtual Environment</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/python_virtual_environment/</link>
+      <pubDate>Sat, 18 Apr 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/python_virtual_environment/</guid>
+      <description>Theme Create a virtual environment with Python.
+ Technologies  Python Microsoft Visual Studio Code   Description Dans tout projet data, il est important de pouvoir créer un environnement technique reproductible par une autre personne ou sur un autre ordinateur.</description>
+    </item>
+    
+    <item>
+      <title>Tableau Dashboard</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/tableau_dashboard/</link>
+      <pubDate>Wed, 18 Mar 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/tableau_dashboard/</guid>
+      <description>Theme Visuals &amp;amp; Dashboard with the Software Package Tableau.
+ Technologies  Tableau Software Package   Description Il s&amp;rsquo;agit là d&amp;rsquo;une collection de graphiques mettant en avant les conséquences (ou plutôt le manque de conséquences) d&amp;rsquo;une élévation de la concentration atmosphérique en CO2 sur les émissions des gaz à effet de serre méthane (CH4), dioxide de carbone (CO2) et N2O.</description>
+    </item>
+    
+    <item>
+      <title>Google Business Intelligence</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/google_bi/</link>
+      <pubDate>Mon, 10 Feb 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/google_bi/</guid>
+      <description>Theme Data Visualisation with Google BigQuery &amp;amp; Google Data Studio.</description>
+    </item>
+    
+    <item>
+      <title>KPI Modelling</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/kpi_modelling/</link>
+      <pubDate>Sat, 08 Feb 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/kpi_modelling/</guid>
+      <description>Theme Establishment of a key performance indicator (KPI).
+ Technologies  Statistics (correlations, Z-score)   Description Un conglomérat d’agriculteurs australiens a financé une étude dans laquelle j’ai été chargé d’identifier les facteurs biologiques et environnementaux qui sont susceptible d’améliorer les rendements de blé en lien avec les pratiques d’agricultures communes en Australie (chaume brûlé, fertilisation, pâturage, labourage, etc.</description>
+    </item>
+    
+    <item>
+      <title>Google BigQuery &amp; Google Data Studio</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/google_bigquery_datastudio/</link>
+      <pubDate>Wed, 05 Feb 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/google_bigquery_datastudio/</guid>
+      <description>Theme Prepare a dashboard with Google BigQuery &amp;amp; Google Data Studio.</description>
+    </item>
+    
+    <item>
+      <title>Geographical Modelling</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/geographical_modelling/</link>
+      <pubDate>Tue, 12 Nov 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/geographical_modelling/</guid>
+      <description>Theme Geographical Modelling.
+ Technologies  Machine Learning (Random Forest, Canonical Variates Analysis) Geostatistics (Kriging)   Description J’ai complété une étude décrivant les étapes de modélisation nécessaire pour prédire la répartition géographique de microbes dans le sol responsables de la réduction des concentrations de méthane (un puissant gaz effet de serre) dans l’atmosphère.</description>
+    </item>
+    
+    <item>
+      <title>Alteryx (coming soon)</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/alteryx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/alteryx/</guid>
+      <description>Coming Soon !
+ Theme Alteryx Designer Workflow.
+ Technologies  Alteryx Designer   Description [Credit for the header picture] Photo by Campaign Creators on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>Project Repository with GitHub (coming soon)</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/github_repo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/github_repo/</guid>
+      <description>Coming Soon !
+ Theme Create a project repository with GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Scientific Publications</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/scientific_publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/scientific_publications/</guid>
+      <description>A list of chosen papers and posters.
+ Table of contents</description>
+    </item>
+    
+    <item>
+      <title>Web App Deployment with Heroku (coming soon)</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/deploy_web_app_heroku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/deploy_web_app_heroku/</guid>
+      <description>Coming Soon !
+ Theme Deploy a web application with Heroku.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>business intelligence on Welcome to Loïc&#39;s Data Science</title>
+    <link>https://loic-nazaries.github.io/website/categories/business-intelligence/</link>
+    <description>Recent content in business intelligence on Welcome to Loïc&#39;s Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Mon, 01 Jun 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://loic-nazaries.github.io/website/categories/business-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Database Modelling</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/database_modelling/</link>
+      <pubDate>Mon, 01 Jun 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/database_modelling/</guid>
+      <description>Theme Database modelling.
+ Technologies  SQL PostgreSQL &amp;amp; pgAdmin4 | Oracle SQL*Plus UML   Description Un système de gestion de base de données relationnelle (SGBDR) a été construit pour le projet « EucFACE ».</description>
+    </item>
+    
+    <item>
+      <title>Tableau Dashboard</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/tableau_dashboard/</link>
+      <pubDate>Wed, 18 Mar 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/tableau_dashboard/</guid>
+      <description>Theme Visuals &amp;amp; Dashboard with the Software Package Tableau.
+ Technologies  Tableau Software Package   Description Il s&amp;rsquo;agit là d&amp;rsquo;une collection de graphiques mettant en avant les conséquences (ou plutôt le manque de conséquences) d&amp;rsquo;une élévation de la concentration atmosphérique en CO2 sur les émissions des gaz à effet de serre méthane (CH4), dioxide de carbone (CO2) et N2O.</description>
+    </item>
+    
+    <item>
+      <title>KPI Modelling</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/kpi_modelling/</link>
+      <pubDate>Sat, 08 Feb 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/kpi_modelling/</guid>
+      <description>Theme Establishment of a key performance indicator (KPI).
+ Technologies  Statistics (correlations, Z-score)   Description Un conglomérat d’agriculteurs australiens a financé une étude dans laquelle j’ai été chargé d’identifier les facteurs biologiques et environnementaux qui sont susceptible d’améliorer les rendements de blé en lien avec les pratiques d’agricultures communes en Australie (chaume brûlé, fertilisation, pâturage, labourage, etc.</description>
+    </item>
+    
+    <item>
+      <title>Alteryx (coming soon)</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/alteryx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/alteryx/</guid>
+      <description>Coming Soon !
+ Theme Alteryx Designer Workflow.
+ Technologies  Alteryx Designer   Description [Credit for the header picture] Photo by Campaign Creators on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>Web App Deployment with Heroku (coming soon)</title>
+      <link>https://loic-nazaries.github.io/website/portfolio/deploy_web_app_heroku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://loic-nazaries.github.io/website/portfolio/deploy_web_app_heroku/</guid>
+      <description>Coming Soon !
+ Theme Deploy a web application with Heroku.</description>
+    </item>
+    
+  </channel>
+</rss>
